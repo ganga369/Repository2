@@ -1,4 +1,4 @@
 const char* GetName()
 {
-	return "abc";
+	return "abcd";
 }
